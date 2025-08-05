@@ -1,3 +1,5 @@
+<img align="center" src=".header_image.png" alt="Header"/>
+<hr>
 <h1 align="center">Hi 👋, I'm Den Zagorodniy</h1>
 <h3 align="center">Backend developer from Ukraine.</h3>
 
