@@ -1,4 +1,4 @@
-<img align="center" src="header_image.png" alt="Header"/>
+<img align="center" src="header_image.png" height=720 alt="Header"/>
 <hr>
 <h1 align="center">Hi 👋, I'm Den Zagorodniy</h1>
 <h3 align="center">Backend developer from Ukraine.</h3>
@@ -26,10 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=floyse-back&show_icons=true&locale=en&layout=compact" alt="floyse-back" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=floyse-back&show_icons=true&locale=en" alt="floyse-back" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=floyse-back" alt="floyse-back" />
 </p>
